@@ -1,0 +1,11 @@
+{
+  "name": "bem",
+  "version": "1.0.0",
+  "description": "BEM Exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Regie M. Marzan",
+  "license": "ISC"
+}
