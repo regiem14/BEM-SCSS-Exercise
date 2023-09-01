@@ -1,1 +1,1 @@
-# BEM-SCSS
+# BEM-SCSS-Exercise
